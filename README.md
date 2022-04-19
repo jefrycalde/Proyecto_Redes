@@ -30,7 +30,6 @@
 |  Integrante       | Carnet  	    | Rol  	        |
 |---	            |---	        |---	        |
 |  Jefry Calderon 	| 18-10554  	| Scrum Master/Product Owner  |
-|  Esdras Chigna 	| 18-8590 	    | Desarrollado/Diseño	|
 |  Alfredo Loyo 	| 18-3306     	| Desarrollador/Diseño |
 
 
