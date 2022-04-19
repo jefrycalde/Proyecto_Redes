@@ -130,9 +130,9 @@ Los valores que deben ser practicados por todos los miembros involucrados en el 
 
 |  Fecha 	| Version  	| Descripcion  	|
 |---	|---	|---	|
-|  15/05/2021 	| 1.0  	| Primera presentacion de avances del proyecto  	|
-|  22/05/2021 	| 1.1  	| Segunda presentacion de avances del proyecto  	|
-|  29/05/2021 	| 1.2  	| Presentacion del proyecto final  	|
+|  29/03/2022 	| 1.0  	| Primera presentacion de avances del proyecto  	|
+|  	| 1.1  	| Segunda presentacion de avances del proyecto  	|
+|   	| 1.2  	| Presentacion del proyecto final  	|
 
 
 ## ` `Cronograma de actividades<a name="Actividades"/>
