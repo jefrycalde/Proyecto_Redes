@@ -42,8 +42,7 @@
 
 ### ` `Introduccion<a name="INTRODUCCION"/>
 
-Este documento presenta el analisis desarrollado sobre los proyectos llamados control de pecera y control de temperatura donde se describe la documentacion realizada en el proyecto y la cual se desarrollo en el donde se describe el ciclo de vida del proyecto de forma interactiva e incremental, las herramientas utilizadas, los materiales, el seguimiento del proyectos, las asignaciones, los avances y las responsabilidades de cada intengrande mencionado en el siguiente documento.
-
+En este documento se presenta el analisis desarrollado en el proyecto de redes donde se describe la documentacion realizada en el proyecto y la cual se desarrollo en el donde se describe el ciclo de vida del proyecto de forma interactiva e incremental, las herramientas utilizadas, los materiales, el seguimiento del proyectos, las asignaciones, los avances y las responsabilidades de cada intengrande mencionado en el siguiente documento.
 
 
 
@@ -51,7 +50,7 @@ Este documento presenta el analisis desarrollado sobre los proyectos llamados co
 
 * Realizar un control de aforo y temperatura para poder mejorar el control que se solicitan actualmente en los diferentes tipos de negocios existentes para poder llevar un mayor control de las personas que estan ingresando.
 
-* Realizar un control de pecera para tener un mejor manejo de la temperatura, ph, alimetacion y oxigenacion del entorno en que se encuentran los peces .
+* Realizar un Servidor con Elastix para la configuración de las direcciones que llevaran los teléfonos para el control de recepcion en la entradas de negocio y servicio al cliente.
 
 
 
@@ -65,10 +64,7 @@ Poder brindar la de mejor manera la informacion del proyecto a las personas impl
 
 ### ` `Alcance<a name="alcance"/>
 
-1. Desarrollar un prototipo de Medidor temperatura para que un colegio tenga mejor control de cuantos niños se encuentran en las aulas.
-1. Desarrollar un control de pecera para mejoramiento de vida de los peces.
-
-
+1. Desarrollar un Servidor con Elastix para la configuración de las direcciones que llevaran los teléfonos.
 
 
 ## ` `Metodologia seleccionada<a name="METODOLOGIA"/>
@@ -100,13 +96,12 @@ La razon de elegir el metodo Scrum es por el desarrollo agil y veloz que tiene p
 ## ` `Descripción General del proyecto<a name="GENERAL"/>
 ### ` `Fundamentación<a name="fundamentacion"/>
 
-1. Medidor de temperatura
+1. Servidor con Elastix para la configuración de las direcciones que llevaran los teléfonos.
 
-Sistema que es capaz de medir la temperatura de las personas, que al momento de que esta pase el límite de temperatura (67°) este avise por medio de un buzzer. Además de que también llevara el conteo del ingreso y egreso de las personas adentro del establecimiento.
 
-2. Control de pecera
+Es un firewall que solo dara acceso a paquetes cip.
 
-Sistema que es capaz de medir la temperatura en la que se encuentra el agua de la pecera, oxigenarla, alimentar de manera automatica y que cuenta con un medidor de pH. Cuando el sistema detecte que la temperatura se encuentra fuera de los límites, este avisara por medio de un buzzer.
+
 
 ### ` `Valores de trabajo<a name="valores"/>
 
@@ -128,9 +123,9 @@ Los valores que deben ser practicados por todos los miembros involucrados en el 
 
 
 
-|  Fecha 	| Version  	| Descripcion  	|
-|---	|---	|---	|
-|  29/03/2022 	| 1.0  	| Primera presentacion de avances del proyecto  	|
+| Version  	| Descripcion  	|
+	|---	|---	|
+	| 1.0  	| Primera presentacion de avances del proyecto  	|
 |  	| 1.1  	| Segunda presentacion de avances del proyecto  	|
 |   	| 1.2  	| Presentacion del proyecto final  	|
 
