@@ -123,11 +123,11 @@ Los valores que deben ser practicados por todos los miembros involucrados en el 
 
 
 
-| Version  	| Descripcion  	|
-	|---	|---	|
+| Version  | Descripcion  |
+|---	|---	|
 	| 1.0  	| Primera presentacion de avances del proyecto  	|
-|  	| 1.1  	| Segunda presentacion de avances del proyecto  	|
-|   	| 1.2  	| Presentacion del proyecto final  	|
+| 1.1  	| Segunda presentacion de avances del proyecto  	|
+| 1.2  	| Presentacion del proyecto final  	|
 
 
 ## ` `Cronograma de actividades<a name="Actividades"/>
