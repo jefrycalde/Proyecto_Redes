@@ -191,23 +191,27 @@ Sprint#3
 Los sprints desarrollados fueron en total 3 actividades desarrolladas los cuales se ya se mencionaron en la actividad anterior con sus respectivas descripciones.
 
 
-## ` `Diagramas y circuitos del proyecto<a name="diagramas"/>
-### Diagrama y circuito control de aforo <a name="aforo"/>
+## ` `Sistema desarrollado fisico y digital<a name="diagramas"/>
+### Sistema fisico y digital<a name="aforo"/>
 
- ![](https://files.catbox.moe/xzobzt.jpg)
- ![]( https://files.catbox.moe/teyzk3.jpg)
- ![](https://files.catbox.moe/0yvmrz.jpg)
+ ![](https://files.catbox.moe/tzl4n5.jpeg)
  
- ### Diagrama y circuito control de temperatura <a name="temperatura"/>
-  ![](https://files.catbox.moe/rygtbs.jpg)
-  ![](https://files.catbox.moe/xqi3q3.jpg)
-  ![](https://files.catbox.moe/y51bc3.jpg)
+ ![](https://files.catbox.moe/ymyh5d.jpeg)
  
- ### Diagrama control de pecera <a name="pecera"/>
+ ![](https://files.catbox.moe/7f9x5h.jpeg)
+ 
+  ![](https://files.catbox.moe/ucrj8s.jpeg)
+  ![](https://files.catbox.moe/06umms.jpeg)
+  ![](https://files.catbox.moe/dtkjqv.jpeg)
+ 
 
- ![](https://files.catbox.moe/2ow9jd.png)
- ![](https://files.catbox.moe/h6m3ql.jpg)
- ![](https://files.catbox.moe/xfgjbi.jpg)
+ ![](https://files.catbox.moe/3qi2rm.jpeg)
+ ![](https://files.catbox.moe/mrfevm.jpeg)
+ ![](https://files.catbox.moe/goouy7.jpeg)
 
+ ![](https://files.catbox.moe/m1z1yz.jpeg)
+ ![](https://files.catbox.moe/1ij3s7.jpeg)
+ ![](https://files.catbox.moe/asswpk.jpeg)
+ ![](https://files.catbox.moe/xr42f0.jpeg)
 
 
