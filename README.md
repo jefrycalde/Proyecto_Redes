@@ -140,10 +140,15 @@ Los valores que deben ser practicados por todos los miembros involucrados en el 
 |  Sprint#1 	| [Presentación de anteproyecto](https://github.com/jefrycalde/Proyecto_Redes/issues/1)	|![](https://files.catbox.moe/mcadov.png)	|
 |  Sprint#1  	| [instalar zoiper en las maquinas](https://github.com/jefrycalde/Proyecto_Redes/issues/5)|![](https://files.catbox.moe/zg0tww.png) |
 |  Sprint#1  	| [configurar el firewall fortigate](https://github.com/jefrycalde/Proyecto_Redes/issues/2)  	|   ![](https://files.catbox.moe/dv5oih.png)	|
-|  Sprint#1 17/05/2021 	| [Programacion de contador utilizando HC-SR05](https://github.com/Echigna/Proyecto-de-analisis-de-sistemas/issues/10)  	|   ![](https://files.catbox.moe/b2ndeh.png)	|
-|  Sprint#2 18/05/2021 	| [Diseño del sistema de control de temperatura](https://github.com/Echigna/Proyecto-de-analisis-de-sistemas/issues/11)  	|   ![](https://files.catbox.moe/fbk52h.png)	|
-|  Sprint#2 18/05/2021 	| [Diseño del sistema de aforo usando HC-SR05](https://github.com/Echigna/Proyecto-de-analisis-de-sistemas/issues/9)  	|   ![](https://files.catbox.moe/6czy2v.png)	|
-|  Sprint#2 18/05/2021 	| [Programacion de medidor de temperatura utilizando GY-906](https://github.com/Echigna/Proyecto-de-analisis-de-sistemas/issues/12)  	|   ![](https://files.catbox.moe/81vp5l.png)	|
+|  Sprint#2 	| [crear extensiones para el servidor voip](https://github.com/jefrycalde/Proyecto_Redes/issues/14)  	|   ![](https://files.catbox.moe/lh71qy.png)	|
+|  Sprint#2  	| [configurar servidor voip](https://github.com/jefrycalde/Proyecto_Redes/issues/13)  	|   ![](https://files.catbox.moe/jeh845.png)	|
+|  Sprint#2 	| [configurar las politicas de interfaz entre redes](https://github.com/jefrycalde/Proyecto_Redes/issues/12)  	|   ![](https://files.catbox.moe/z5dh27.png)	|
+|  Sprint#2 	| [Armar Topologia](https://github.com/jefrycalde/Proyecto_Redes/issues/7)  	|   ![](https://files.catbox.moe/e5lrqd.png)	|
+|  Sprint#2 	| [configurar las politicas de interfaz wan](https://github.com/jefrycalde/Proyecto_Redes/issues/11)  	|   ![](https://files.catbox.moe/j4kx14.png)	|
+|  Sprint#2 	| [configurar puerto dmz del fortigate](https://github.com/jefrycalde/Proyecto_Redes/issues/10)  	|   ![](https://files.catbox.moe/w57v52.png)	|
+|  Sprint#2 	| [configurar puerto lan de fortigate](https://github.com/jefrycalde/Proyecto_Redes/issues/9)  	|   ![](https://files.catbox.moe/zsao4d.png)	|
+|  Sprint#2 	| [Configurar puerto wan del fortigate](https://github.com/jefrycalde/Proyecto_Redes/issues/8)  	|   ![](https://files.catbox.moe/alqhzj.png)	|
+|  Sprint#2 	| [configurar el servidor voip](https://github.com/jefrycalde/Proyecto_Redes/issues/6)  	|   ![](https://files.catbox.moe/sshinn.png)	|
 |  Sprint#3 19/05/2021 	| [ Programacion del buzzer alertando alta temperatura](https://github.com/Echigna/Proyecto-de-analisis-de-sistemas/issues/14)  	|   ![](https://files.catbox.moe/kcb97v.png)	|
 |  Sprint#3 19/05/2021 	| [Programación del buzzer alertando aforo completo](https://github.com/Echigna/Proyecto-de-analisis-de-sistemas/issues/13)  	|   ![](https://files.catbox.moe/ebh2n2.png)	|
 |  Sprint#4 20/05/2021 	| [Diseño del sistema de temperatura de la pecera](https://github.com/Echigna/Proyecto-de-analisis-de-sistemas/issues/15)  	|   ![](https://files.catbox.moe/uvqs07.png)	|
