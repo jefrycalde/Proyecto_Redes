@@ -149,24 +149,9 @@ Los valores que deben ser practicados por todos los miembros involucrados en el 
 |  Sprint#2 	| [configurar puerto lan de fortigate](https://github.com/jefrycalde/Proyecto_Redes/issues/9)  	|   ![](https://files.catbox.moe/zsao4d.png)	|
 |  Sprint#2 	| [Configurar puerto wan del fortigate](https://github.com/jefrycalde/Proyecto_Redes/issues/8)  	|   ![](https://files.catbox.moe/alqhzj.png)	|
 |  Sprint#2 	| [configurar el servidor voip](https://github.com/jefrycalde/Proyecto_Redes/issues/6)  	|   ![](https://files.catbox.moe/sshinn.png)	|
-|  Sprint#3 19/05/2021 	| [ Programacion del buzzer alertando alta temperatura](https://github.com/Echigna/Proyecto-de-analisis-de-sistemas/issues/14)  	|   ![](https://files.catbox.moe/kcb97v.png)	|
-|  Sprint#3 19/05/2021 	| [Programación del buzzer alertando aforo completo](https://github.com/Echigna/Proyecto-de-analisis-de-sistemas/issues/13)  	|   ![](https://files.catbox.moe/ebh2n2.png)	|
-|  Sprint#4 20/05/2021 	| [Diseño del sistema de temperatura de la pecera](https://github.com/Echigna/Proyecto-de-analisis-de-sistemas/issues/15)  	|   ![](https://files.catbox.moe/uvqs07.png)	|
-|  Sprint#6 22/05/2021 	| [Calibracion de los sensores](https://github.com/Echigna/Proyecto-de-analisis-de-sistemas/issues/6)  	|   ![](https://files.catbox.moe/07cuwn.png)	|
-|  Sprint#6 22/05/2021 	| [Segunda presentacion de avances del proyecto](https://github.com/Echigna/Proyecto-de-analisis-de-sistemas/issues/8)  	|   ![](https://files.catbox.moe/qo0zba.png)	|
-|  Sprint#7 23/05/2021 	| [Programacion del control de temperatura de la pecera](https://github.com/Echigna/Proyecto-de-analisis-de-sistemas/issues/16)  	|   ![](https://files.catbox.moe/7yw8oe.png)	|
-|  Sprint#7 23/05/2021 	| [Reunión de planificación #2](https://github.com/Echigna/Proyecto-de-analisis-de-sistemas/issues/17)  	|   ![](https://files.catbox.moe/uwtdps.png)	|
-|  Sprint#8 24/05/2021 	| [Finalización del sensor de temperatura sin contacto](https://github.com/Echigna/Proyecto-de-analisis-de-sistemas/issues/19)  	|   ![](https://files.catbox.moe/2xfkqm.png)	|
-|  Sprint#9 25/05/2021 	| [Finalización del control de aforo](https://github.com/Echigna/Proyecto-de-analisis-de-sistemas/issues/21)  	|   ![](https://files.catbox.moe/q7i1re.png)	|
-|  Sprint#9 25/05/2021 	| [Finalización del control de PH](https://github.com/Echigna/Proyecto-de-analisis-de-sistemas/issues/22)  	|   ![](https://files.catbox.moe/25ps56.png)	|
-|  Sprint#10 26/05/2021 	| [Programacion de control de ph de la pecera](https://github.com/Echigna/Proyecto-de-analisis-de-sistemas/issues/23)  	|   ![](https://files.catbox.moe/5hpy4a.png)	|
-|  Sprint#10 26/05/2021 	| [Finalización del control de temperatura](https://github.com/Echigna/Proyecto-de-analisis-de-sistemas/issues/20)  	|   ![](https://files.catbox.moe/uepmo9.png)	|
-|  Sprint#11 27/05/2021 	| [Programacion del oxigenador de la pecera](https://github.com/Echigna/Proyecto-de-analisis-de-sistemas/issues/24)  	|   ![](https://files.catbox.moe/lq0s0b.png)	|
-|  Sprint#12 28/05/2021 	| [Programacion del alimentador automatico de la pecera](https://github.com/Echigna/Proyecto-de-analisis-de-sistemas/issues/25)  	|   ![](https://files.catbox.moe/1twams.png)	|
-
-
-
-
+|  Sprint#3  	| [ realizar pruebas de llamadas](https://github.com/jefrycalde/Proyecto_Redes/issues/4)  	|   ![](https://files.catbox.moe/w9v8o7.png)	|
+|  Sprint#3 	| [asignar los numeros a los softphones](https://github.com/jefrycalde/Proyecto_Redes/issues/3)  	|   ![](https://files.catbox.moe/93obov.png)	|
+|  Sprint#3  	| [asignar las direcciones voip a los dispositivos](https://github.com/jefrycalde/Proyecto_Redes/issues/15)  	|   ![](https://files.catbox.moe/2x1nnd.png)	|
 
 
 ## ` `Artefactos<a name="Artefactos"/>
@@ -188,87 +173,6 @@ Informacion
  
  Comunicacion de los integrantes
  
-### ` `Pila de producto<a name="pilaprod"/>
-
-Es donde se presenta los requisitos del sistema o del usuarion en esta metodologia
-
-Medidor De Temperatura
-
-Sistema que sea capaz de medir la temperatura de las personas, que al momento 
-de que esta pase el límite de temperatura (67°) este avise por medio de un buzzer. 
-Además de que también llevara el conteo de las personas que se encuentren 
-adentro del establecimiento
-
-Control de Pecera Automatizada
-
-Sistema que sea capaz de medir la temperatura en la que se encuentra el agua de 
-la pecera, oxigenarla por medio de un relay y que cuenta con un medidor de pH.
-Cuando el sistema detecte que la temperatura se encuentra fuera de los límites, 
-este avisara por medio de un buzzer.
-
-¿Cómo se va realizar?
-
-Utilizando métodos de electrónica, la idea es poder desarrollar los controles para 
-el fácil manejo de temperatura de las personas que entren en el negocio por medio 
-de dispositivos electrónicos y al mismo tiempo el control del manejo de una 
-pecera para el aviso del dueño.
-
-
-
-
-### ` `Pila de Sprint<a name="pilasprint"/>
-
-Es donde se presenta los requisitos y las actividades desarrolladas por el equipo del proyecto y donde se detalla los implicados y las responsabilidades
-
-Responsabilidades del gestor del producto
-
- - Presencia la supervicion del proyecto y de los avances durante las faces del proyecto
- - Realiza las instrucciones necesarias para el desarrollo del proyecto
-
-Resposabilidades del Scrum Manager
-
- - Supervisa y recibe las instrucciones del gestor del producto para el desarrollo del proyecto
- - Asigna las instrucciones a los demas integrantes del proyecto
- - Supervisa el cumplimiento de actividades del proyecto
-
-Responsabilidades del equipo de desarrollo
-
- - Elabora las instrucciones proporcionadas en el sprint
- - Resolucion de dudas entre el cliente y el Scrum Manager
- - Desarrolla las actividades presentadas
-
-Responsabilidades del equipo de diseño
-
- - Realiza las actividades presentadas
- - Resolucion de dudas entre el equipo de desarrollo
-
-## ` `Cuadros sobre el desarrollo del proyecto<a name="desproy"/>
- 
- ![](https://files.catbox.moe/dl7uez.png)
- 
- ![](https://files.catbox.moe/iy8q6p.png)
- 
- ![](https://files.catbox.moe/v6wtub.png)
- 
- ![](https://files.catbox.moe/bnsfy2.png)
- 
- ![](https://files.catbox.moe/mg3ao3.png)
- 
- ![](https://files.catbox.moe/thbatx.png)
- 
- ![](https://files.catbox.moe/del0d0.png)
- 
- ![](https://files.catbox.moe/hsoygg.png)
- 
- ![](https://files.catbox.moe/ndc8yx.png)
-  
- ![](https://files.catbox.moe/fczl2w.png)
-   
- ![](https://files.catbox.moe/t7x1o0.png)
-    
- ![](https://files.catbox.moe/31os2p.png)
- 
- ![](https://files.catbox.moe/31os2p.png)
 
 ## ` `Desarrollo de Sprint<a name="dessprint"/>
 
@@ -276,47 +180,16 @@ El desarrollo de los Sprints fueron de un dia cada uno de desarrollo de asignaci
 
 Sprint#1
 
-Los sprints desarrollados fueron en total 4 actividades desarrolladas las cuales tenian como fecha de vencimiento el 17/05/2021 los cuales se ya se mencionaron en la actividad anterior con sus respectivas descripciones.
+Los sprints desarrollados fueron en total 3 actividades desarrolladas  los cuales se ya se mencionaron en la actividad anterior con sus respectivas descripciones.
 
 Sprint#2
 
-Los sprints desarrollados fueron en total 3 actividades desarrolladas las cuales tenian como fecha de vencimiento el 18/05/2021 los cuales se ya se mencionaron en la actividad anterior con sus respectivas descripciones.
+Los sprints desarrollados fueron en total 9 actividades desarrolladas los cuales se ya se mencionaron en la actividad anterior con sus respectivas descripciones.
 
 Sprint#3
 
-Los sprints desarrollados fueron en total 2 actividades desarrolladas las cuales tenian como fecha de vencimiento el 19/05/2021 los cuales se ya se mencionaron en la actividad anterior con sus respectivas descripciones.
+Los sprints desarrollados fueron en total 3 actividades desarrolladas los cuales se ya se mencionaron en la actividad anterior con sus respectivas descripciones.
 
-Sprint#4
-
-Los sprints desarrollados fueron en total 1 actividades desarrolladas las cuales tenian como fecha de vencimiento el 20/05/2021 los cuales se ya se mencionaron en la actividad anterior con sus respectivas descripciones.
-
-Sprint#6
-
-Los sprints desarrollados fueron en total 2 actividades desarrolladas las cuales tenian como fecha de vencimiento el 22/05/2021 los cuales se ya se mencionaron en la actividad anterior con sus respectivas descripciones.
-
-Sprint#7
-
-Los sprints desarrollados fueron en total 2 actividades desarrolladas las cuales tenian como fecha de vencimiento el 23/05/2021 los cuales se ya se mencionaron en la actividad anterior con sus respectivas descripciones.
-
-Sprint#8
-
-Los sprints desarrollados fueron en total 1 actividades desarrolladas las cuales tenian como fecha de vencimiento el 24/05/2021 los cuales se ya se mencionaron en la actividad anterior con sus respectivas descripciones.
-
-Sprint#9
-
-Los sprints desarrollados fueron en total 2 actividades desarrolladas las cuales tenian como fecha de vencimiento el 25/05/2021 los cuales se ya se mencionaron en la actividad anterior con sus respectivas descripciones.
-
-Sprint#10
-
-Los sprints desarrollados fueron en total 2 actividades desarrolladas las cuales tenian como fecha de vencimiento el 26/05/2021 los cuales se ya se mencionaron en la actividad anterior con sus respectivas descripciones.
-
-Sprint#11
-
-Los sprints desarrollados fueron en total 1 actividades desarrolladas las cuales tenian como fecha de vencimiento el 27/05/2021 los cuales se ya se mencionaron en la actividad anterior con sus respectivas descripciones.
-
-Sprint#12
-
-Los sprints desarrollados fueron en total 4 actividades desarrolladas las cuales tenian como fecha de vencimiento el 28/05/2021 los cuales se ya se mencionaron en la actividad anterior con sus respectivas descripciones.
 
 ## ` `Diagramas y circuitos del proyecto<a name="diagramas"/>
 ### Diagrama y circuito control de aforo <a name="aforo"/>
