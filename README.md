@@ -137,9 +137,9 @@ Los valores que deben ser practicados por todos los miembros involucrados en el 
 
 |  Sprints 	    | Actividad  |  Screenshot  	|
 |---	        |---	     |---	            |
-|  Sprint#1 17/05/2021	| [Primera presentacion de avances del proyecto](https://github.com/Echigna/Proyecto-de-analisis-de-sistemas/issues/1)	|![](https://files.catbox.moe/72gb98.png)	|
-|  Sprint#1 17/05/2021 	| [Pedido de base para el sensor de temperatura](https://github.com/Echigna/Proyecto-de-analisis-de-sistemas/issues/7)|![](https://files.catbox.moe/fk207p.png) |
-|  Sprint#1 17/05/2021 	| [Recepcion de materiales](https://github.com/Echigna/Proyecto-de-analisis-de-sistemas/issues/5)  	|   ![](https://files.catbox.moe/zuaku3.png)	|
+|  Sprint#1 	| [Presentación de anteproyecto](https://github.com/jefrycalde/Proyecto_Redes/issues/1)	|![](https://files.catbox.moe/mcadov.png)	|
+|  Sprint#1  	| [instalar zoiper en las maquinas](https://github.com/jefrycalde/Proyecto_Redes/issues/5)|![](https://files.catbox.moe/zg0tww.png) |
+|  Sprint#1  	| [configurar el firewall fortigate](https://github.com/jefrycalde/Proyecto_Redes/issues/2)  	|   ![](https://files.catbox.moe/dv5oih.png)	|
 |  Sprint#1 17/05/2021 	| [Programacion de contador utilizando HC-SR05](https://github.com/Echigna/Proyecto-de-analisis-de-sistemas/issues/10)  	|   ![](https://files.catbox.moe/b2ndeh.png)	|
 |  Sprint#2 18/05/2021 	| [Diseño del sistema de control de temperatura](https://github.com/Echigna/Proyecto-de-analisis-de-sistemas/issues/11)  	|   ![](https://files.catbox.moe/fbk52h.png)	|
 |  Sprint#2 18/05/2021 	| [Diseño del sistema de aforo usando HC-SR05](https://github.com/Echigna/Proyecto-de-analisis-de-sistemas/issues/9)  	|   ![](https://files.catbox.moe/6czy2v.png)	|
